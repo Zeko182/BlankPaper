@@ -1,1 +1,0 @@
-window._CCSettings={platform:"android",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/scenes/loadingWeb.fire",orientation:"",server:"",jsList:["assets/scripts/shootFish/plugins/SAT.js","assets/scripts/shootFish/plugins/md5.js","assets/scripts/shootFish/plugins/msgpack.js"]};
